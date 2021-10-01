@@ -22,6 +22,7 @@ Devuelve:
 "Hello Anonymous"
 
 GET http://localhost:3000/test/user 
+
 Devuelve:
 ```json
 {
