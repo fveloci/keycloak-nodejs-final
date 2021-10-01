@@ -18,8 +18,10 @@ Cada endpoint devuelve la ruta a la que se está accediendo, el nombre del usuar
 GET http://localhost:3000/test/anonymous
 
 Devuelve: 
+```json
+Hello Anonymous
+```
 
-"Hello Anonymous"
 
 GET http://localhost:3000/test/user 
 
